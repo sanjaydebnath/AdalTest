@@ -1,0 +1,12 @@
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\bin\Release\netcoreapp2.0\AdalTest.Demo.Api.deps.json
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\bin\Release\netcoreapp2.0\AdalTest.Demo.Api.runtimeconfig.json
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\bin\Release\netcoreapp2.0\AdalTest.Demo.Api.runtimeconfig.dev.json
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\bin\Release\netcoreapp2.0\AdalTest.Demo.Api.dll
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\bin\Release\netcoreapp2.0\AdalTest.Demo.Api.pdb
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.csprojResolveAssemblyReference.cache
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.csproj.CoreCompileInputs.cache
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.AssemblyInfoInputs.cache
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.AssemblyInfo.cs
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.dll
+C:\Users\sanjayd\Documents\Visual Studio 2017\Projects\AdalTest\AdalTest\AdalTest.Demo\AdalTest.Demo.Api\obj\Release\netcoreapp2.0\AdalTest.Demo.Api.pdb
